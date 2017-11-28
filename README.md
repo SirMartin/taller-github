@@ -4,8 +4,11 @@ Esto debera ser el título principal
 
 *Texto con énfasis*
 
-> Esta línea se ve como una cita
-> y esta línea también
+> Esta línea se ve como una cita y tiene como una marca a la izquierda
+
+- Lista desordenada
+- Otro item de la lista
+- Otro más
 
 
 ## Welcome to GitHub Pages
