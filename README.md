@@ -4,6 +4,8 @@ Esto debera ser el título principal
 
 *Texto con énfasis*
 
+> Esta línea se ve como una cita
+> y esta línea también
 
 
 ## Welcome to GitHub Pages
