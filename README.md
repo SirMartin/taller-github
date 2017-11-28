@@ -34,8 +34,12 @@ defunkt/github-flavored-markdown#1
 
 
 Día | Lunes | Martes | Miércoles | Jueves | Viernes
----------------------------------------------------
-| Una celda | otra celda | otra celda | otra más | cinco | seis
+-- | -- | -- | -- | -- | --  
+| Mañana | uno | dos | tres | cuatro | cinco
+| Tarde | uno | dos | tres | cuatro | cinco
+| Noche | uno | dos | tres | cuatro | cinco
+
+
 
 
 
