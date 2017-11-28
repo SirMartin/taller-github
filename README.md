@@ -27,3 +27,16 @@ _**énfasis y negrita combinados**_
 
 ![Logo de Github](./GitHub-Mark.png)
 
+ #1
+github-flavored-markdown#1
+defunkt/github-flavored-markdown#1
+
+
+
+Día | Lunes | Martes | Miércoles | Jueves | Viernes
+---- -------- -------- ----------- -------- --------
+| Una celda | otra celda | otra celda | otra más | cinco | seis
+
+
+
+
