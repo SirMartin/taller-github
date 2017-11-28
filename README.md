@@ -1,10 +1,10 @@
-# Título de la página 
+# Título de la página
 
 Esto debera ser el título principal
 
 *Texto con énfasis*
 
-> Esta línea se ve como una cita y tiene como una marca a la izquierda  
+> Esta línea se ve como una cita y tiene como una marca a la izquierda
 > Para hacer otra línea más de la cita
 
 - Lista desordenada
@@ -15,7 +15,7 @@ Esto debera ser el título principal
 2. Tiene al menos dos ítems
 3. tercer ítem de la lista ordenada
 
-*texto con **más** enfasis* 
+*texto con **más** enfasis*
 
 __texto entre carácteres de guión bajo es negrita__
 
@@ -34,13 +34,10 @@ defunkt/github-flavored-markdown#1
 
 
 Día | Lunes | Martes | Miércoles | Jueves | Viernes
--- | -- | -- | -- | -- | --  
+-- | -- | -- | -- | -- | --
 Mañana | uno | dos | tres | cuatro | cinco
 Tarde | uno | dos | tres | cuatro | cinco
 Noche | uno | dos | tres | cuatro | cinco
 
 
-
-
-
-
+_añadimos algo nuevo_
