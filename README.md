@@ -1,3 +1,11 @@
+#Título de la página 
+
+Esto debera ser el título principal
+
+*Texto con énfasis*
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/pedjaStojakovic/taller-github/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
